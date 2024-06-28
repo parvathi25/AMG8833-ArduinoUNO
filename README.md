@@ -1,2 +1,2 @@
 # AMG8833-ArduinoUNO
-Program to interface the AMG8833 Thermal Camera Sensor with an Arduino UNO, capturing and displaying temperature data on the Arduino IDE's Serial Monitor.
+This is a program to interface the AMG8833 Thermal Camera Sensor with an Arduino UNO microcontroller. The program enables seamless communication between the sensor and the Arduino, facilitating the capture of temperature data. The captured data is then transmitted and displayed in real-time on the Serial Monitor of the Arduino IDE. This setup offers a straightforward and efficient method to visualize thermal information, making it accessible for various applications in temperature monitoring, thermal mapping, and environmental sensing.
